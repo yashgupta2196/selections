@@ -22,7 +22,7 @@ This repository contains instructions and questions for IEEECS, VIT 2nd year sel
 
 ## Questions
 
-### Duplicate
+### Duplicate (warm-up)
 In a list of numbers, find the only element that occurs once. All other elements are guaranteed to only occur twice.
 
 Example
@@ -30,6 +30,16 @@ Example
 Input: 2 5 7 6 5 7 2
 Output: 6
 ```
+### Binary search
+Part 1. Implement Binary search.
+
+
+Part 2.
+A certain binary search algorithm takes about 4.5 milliseconds to search a sorted array of 10,000 elements, and about 6 milliseconds to search 1 lakh ( 1,00,000 ) elements. How long would I expect it to take to search 1 crore ( 1,00,00,000 ) elements assuming I have sufficient memory to prevent paging.
+
+
+Hint: What is the complexity of Binary search ?
+
 
 ### Entropy
 
